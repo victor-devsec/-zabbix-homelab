@@ -31,7 +31,15 @@ Windows PC (Host)
 - Real alerts triggered: disk space, stopped services
 
 ## Screenshots
-*(coming soon)*
+
+### Dashboard with real alerts
+![Dashboard](zabbixinicio2.png)
+
+### Active problems detected
+![Problems](problems.png)
+
+### Monitored hosts
+![Hosts](zabbixhots.png)
 
 ## Skills demonstrated
 - Linux Server administration
